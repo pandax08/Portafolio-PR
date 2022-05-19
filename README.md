@@ -21,3 +21,16 @@ pnpm create next-app -- --example with-tailwindcss with-tailwindcss-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+
+# Todo
+
+Insertar datos reales
+
+terminar links de web
+
+buscar icons de stack
+
+realizar pag skills
+realizar pagina works
+
